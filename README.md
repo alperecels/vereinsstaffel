@@ -6,6 +6,7 @@ VereinsStaffel is a proposed self-hosted register for small volunteer-run associ
 
 ## Documentation
 
+- [Research and evidence](docs/research/README.md): what evidence exists, what is missing and how the first research round is planned
 - [Handover scenarios](docs/scenarios.md): four fictional handovers and the requirements they lead to
 
 ## Who it is for
