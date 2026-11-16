@@ -4,6 +4,10 @@ When a volunteer steps down from running an association's website, the board usu
 
 VereinsStaffel is a proposed self-hosted register for small volunteer-run associations in Germany. It would record a responsible role, a deputy and a review date for each digital service, and keep track of the open steps in a handover. It would not store passwords, recovery codes, tokens or private keys, and it would not change access rights at any external provider.
 
+## Documentation
+
+- [Handover scenarios](docs/scenarios.md): four fictional handovers and the requirements they lead to
+
 ## Who it is for
 
 Board members, volunteer coordinators and people who look after digital services in small registered associations (eingetragene Vereine). We intend to include migrant-led associations and organisations that work with migrants in the first research round. Taking part depends on experience with handovers, not on citizenship or assumed technical skill.
