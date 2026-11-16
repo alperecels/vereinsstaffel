@@ -9,6 +9,7 @@ VereinsStaffel is a proposed self-hosted register for small volunteer-run associ
 - [Research and evidence](docs/research/README.md): what evidence exists, what is missing and how the first research round is planned
 - [Handover scenarios](docs/scenarios.md): four fictional handovers and the requirements they lead to
 - [Roadmap](docs/roadmap.md): proposed scope and six months of development, with the evidence expected at the end of each month
+- [Architecture](docs/architecture.md): proposed design, what data the register may hold and what it must never store
 - [Prior art and alternatives](docs/prior-art.md): existing tools and a written guide, and how they will be compared on the same handover task
 - [Licensing](docs/licensing.md): proposed licences and the decisions still open
 
