@@ -10,6 +10,7 @@ VereinsStaffel is a proposed self-hosted register for small volunteer-run associ
 - [Handover scenarios](docs/scenarios.md): four fictional handovers and the requirements they lead to
 - [Roadmap](docs/roadmap.md): proposed scope and six months of development, with the evidence expected at the end of each month
 - [Prior art and alternatives](docs/prior-art.md): existing tools and a written guide, and how they will be compared on the same handover task
+- [Licensing](docs/licensing.md): proposed licences and the decisions still open
 
 ## Who it is for
 
@@ -29,4 +30,4 @@ The four handover scenarios in this project are illustrative. The five survey pr
 
 ## Licence
 
-Not decided yet. A licence will be added once the rights holder has approved it.
+Not decided yet. The proposed licences and the open decisions are described in [Licensing](docs/licensing.md). A licence will be added once the rights holders have approved it.
