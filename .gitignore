@@ -1,0 +1,11 @@
+# Private research material. Keep originals outside this repository.
+private/
+raw-responses/
+contact-keys/
+
+# Local environment files
+.env
+.env.*
+
+# Temporary files created by Microsoft Word
+~$*.docx
