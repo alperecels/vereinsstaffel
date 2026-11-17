@@ -27,8 +27,4 @@ The baseline is a written guide with a named deputy, as in [scenario S4](scenari
 
 Once an option has been tested, its row will give the version used, the effort needed and the gap that remains. A simulation cannot show that one option is better than another.
 
-## OpenCyberCheck
-
-OpenCyberCheck was an earlier concept for assessing security controls and is no longer being pursued. It uses some of the same words, such as access and recovery, but its output would have been an assessment with advice on fixing problems. VereinsStaffel records who is responsible, what is still to be handed over and who confirmed that it was done. It does not test security controls or score an association.
-
 [Back to README](../README.md)
