@@ -11,6 +11,7 @@ VereinsStaffel is a proposed self-hosted register for small volunteer-run associ
 - [Roadmap](docs/roadmap.md): proposed scope and six months of development, with the evidence expected at the end of each month
 - [Planning](docs/planning.md): proposed work items VS-01 to VS-08 with their dependencies and acceptance evidence
 - [Architecture](docs/architecture.md): proposed design, what data the register may hold and what it must never store
+- [Privacy and data protection](docs/privacy.md): how data is handled in this repository and in the research, and what an association would have to decide
 - [Prior art and alternatives](docs/prior-art.md): existing tools and a written guide, and how they will be compared on the same handover task
 - [Licensing](docs/licensing.md): proposed licences and the decisions still open
 - [Research log](docs/research-log.md): dated record of what happened, what it means and which sources were used
@@ -31,6 +32,10 @@ This repository contains documentation only. There is no software yet.
 We are preparing an application to the Prototype Fund and want to find out whether associations need software for this at all. The plan is to compare the same tasks done with an association's existing written guide and with the proposed register. If the written guide works, keeping it is a valid result.
 
 The four handover scenarios in this project are illustrative. The five survey profiles used so far are simulated and are not responses from real associations. No field findings are claimed here.
+
+## Taking part
+
+Contributions are currently limited to the documentation. See the [contributing guide](CONTRIBUTING.md), the [code of conduct](CODE_OF_CONDUCT.md) and the [security policy](SECURITY.md).
 
 ## Licence
 
