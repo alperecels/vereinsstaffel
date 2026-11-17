@@ -13,6 +13,8 @@ VereinsStaffel is a proposed self-hosted register for small volunteer-run associ
 - [Architecture](docs/architecture.md): proposed design, what data the register may hold and what it must never store
 - [Prior art and alternatives](docs/prior-art.md): existing tools and a written guide, and how they will be compared on the same handover task
 - [Licensing](docs/licensing.md): proposed licences and the decisions still open
+- [Research log](docs/research-log.md): dated record of what happened, what it means and which sources were used
+- [Decisions](docs/decisions/README.md): accepted and proposed decisions, and the questions still open
 
 ## Who it is for
 
