@@ -29,6 +29,8 @@ A coordinator links a service, such as the website or the shared mailbox, to a r
 
 This repository contains documentation only. There is no software yet.
 
+VereinsStaffel is the founder's personal project. It is not part of another project or organisation, and it is not published anywhere else.
+
 We are preparing an application to the Prototype Fund and want to find out whether associations need software for this at all. The plan is to compare the same tasks done with an association's existing written guide and with the proposed register. If the written guide works, keeping it is a valid result.
 
 The four handover scenarios in this project are illustrative. The five survey profiles used so far are simulated and are not responses from real associations. No field findings are claimed here.
