@@ -1,6 +1,6 @@
 # Planning
 
-This page lists the proposed work for the six months of development described in the [roadmap](roadmap.md). It is future work. It can only start after a funding decision and a decision on scope.
+This page lists the proposed work for the six months of development described in the [roadmap](roadmap.md). Most of it is future work that can only start after a funding decision and a decision on scope. The exception is VS-01. This research starts before the funding decision and continues into month 1 if it is not finished by then.
 
 VS identifiers are planning references, not GitHub issue numbers. When an issue is opened for an item, its link is added here. Nobody is assigned yet. The roles below are proposals, and no one's capacity has been agreed.
 
@@ -21,7 +21,7 @@ Each milestone ends with evidence a reviewer can check.
 
 ### VS-01: Compare real handovers with the checklist baseline
 
-Proposed role: research lead. Anonymise the evidence from real handovers and compare it with the written checklist. Depends on: the start of the project. Done when: a decision to go ahead, narrow the scope or stop is recorded together with the evidence behind it. GitHub issue: not opened yet.
+Proposed role: research lead. Anonymise the evidence from real handovers and compare it with the written checklist. Depends on: nothing. It starts before the funding decision, in the milestone "Research and scope validation". Done when: a decision to go ahead, narrow the scope or stop is recorded together with the evidence behind it. GitHub issue: not opened yet.
 
 ### VS-02: Threat model, scope and foundation
 
