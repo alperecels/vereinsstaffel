@@ -10,7 +10,7 @@ The only material about associations so far is an internal report in Turkish. It
 
 | ID | Item | Type | Status | Published |
 |---|---|---|---|---|
-| R01 | Interview protocol and an earlier six-question draft | Instrument | Available | No |
+| R01 | Interview protocol and an earlier six-question draft | Instrument | Not confirmed. Being checked. | No |
 | R02 | Anonymous summary of real responses | Field finding | Missing. No responses collected yet. | Planned after anonymisation |
 | R03 | Signed support letters | Permission | Missing. None received. | Only with each signer's consent |
 | R04 | Consent and contact ledger | Permission | Kept privately by the research lead | Never |
@@ -28,7 +28,7 @@ We do not ask for passwords or other credentials, member data, the web addresses
 
 ## Before fieldwork
 
-Two versions of the questionnaire exist: the earlier six-question draft and the nine items in the simulation report. Before any responses are analysed, we record which version was used, with its language, wording and collection dates. Responses from different versions are combined only when the questions can be matched, and the matching is written down.
+The project material refers to two versions of the questionnaire: an earlier six-question draft, which still has to be located, and the nine items in the simulation report. Before any responses are analysed, we record which version was used, with its language, wording and collection dates. Responses from different versions are combined only when the questions can be matched, and the matching is written down.
 
 ## Reporting
 
