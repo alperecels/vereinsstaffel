@@ -21,7 +21,7 @@ Each milestone ends with evidence a reviewer can check.
 
 ### VS-01: Compare real handovers with the checklist baseline
 
-Proposed role: research lead. Anonymise the evidence from real handovers and compare it with the written checklist. Depends on: nothing. It starts before the funding decision, in the milestone "Research and scope validation". Done when: a decision to go ahead, narrow the scope or stop is recorded together with the evidence behind it. GitHub issue: not opened yet.
+Proposed role: research lead. Anonymise the evidence from real handovers and compare it with the written checklist. Depends on: nothing. It starts before the funding decision, in the milestone "Research and scope validation". Done when: a decision to go ahead, narrow the scope or stop is recorded together with the evidence behind it. GitHub issue: [#1](https://github.com/alperecels/vereinsstaffel/issues/1).
 
 ### VS-02: Threat model, scope and foundation
 
