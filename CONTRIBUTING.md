@@ -1,6 +1,6 @@
 # Contributing
 
-This repository holds documentation only. There is no code yet, so contributions are corrections and additions to the documentation pages. The repository is private at the moment.
+This repository holds documentation only. There is no code yet, so contributions are corrections and additions to the documentation pages. 
 
 ## Before you start
 
