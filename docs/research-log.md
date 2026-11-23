@@ -10,9 +10,9 @@ A technical specification shows a proposed design. It is not evidence of demand,
 |---|---|---|
 | 30 September 2026 | The research protocol was written down. Contacting associations was given to the founder. | Outreach stays with the founder and is not delegated. |
 | 1 October 2026 | The name VereinsStaffel was chosen and a short questionnaire was drafted. | The questionnaire has not been used with associations yet. |
+| 6 October 2026 | One association signed a statement of support. | The association is willing to give feedback and to test a later prototype. There is no financial or legal obligation. |
 | 10 November 2026 | The technical specification (version 0.1) and a Turkish scenario report were used to write the first drafts of these pages. | The scenario report simulates responses. Receiving it does not mean that any fieldwork took place. |
 | 16 and 17 November 2026 | This repository was created and the documentation pages were added. | The repository holds documentation only. |
-| 6 October 2026 | One association signed a statement of support. | The association is willing to give feedback and to test a later prototype. There is no financial or legal obligation. |
 | November 2026 | A second association agreed to give a written statement of support. | Same scope as the other statements. |
 | 20 November 2026 | A third association signed a statement of support. | Same scope as the other statements. |
 | Not recorded | The first survey round collected seven responses from members of four associations. | This is the first field evidence. The form did not record which association each answer came from. |
