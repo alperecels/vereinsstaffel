@@ -8,7 +8,7 @@ This page lists the evidence the project has, what is still missing and how the 
 |---|---|---|---|---|
 | R01 | Nine-item questionnaire used in the field | Instrument | Available | No |
 | R02 | Anonymous summary of the first survey round | Field finding | Available, see below | Yes, on this page |
-| R03 | Statements of support from associations | Permission | Three associations have agreed in writing | Association names only. Signed copies are kept privately. |
+| R03 | Statements of support from associations | Permission | Three associations have agreed in writing | No. Copies can be shared with the funder on request. |
 | R04 | Consent and contact ledger | Permission | Kept privately by the research lead | Never |
 | R05 | Internal simulation report with five profiles | Synthetic example | Available | No |
 
@@ -63,7 +63,7 @@ Seven responses from four associations are a small sample and cannot be generali
 
 ## Support from associations
 
-Three associations have agreed in writing to support the project: Ebru e.V., Resonanz e.V. and EinStein/Ribif e.V. They are willing to give feedback during development and to test a later prototype. The support is voluntary and creates no financial or legal obligation. The signed statements and the names of the signers are kept outside this repository.
+Three associations have agreed in writing to support the project. They are willing to give feedback during development and to test a later prototype. The support is voluntary and creates no financial or legal obligation. The associations are not named in this repository, and the signed statements are kept outside it. Copies of the signed statements can be shared with the funder on request.
 
 ## How results are reported
 
