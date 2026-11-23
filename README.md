@@ -33,7 +33,7 @@ VereinsStaffel is the founder's personal project. It is not part of another proj
 
 We are preparing an application to the Prototype Fund and want to find out whether associations need software for this at all. The plan is to compare the same tasks done with an association's existing written guide and with the proposed register. If the written guide works, keeping it is a valid result.
 
-The four handover scenarios in this project are illustrative. The five survey profiles used so far are simulated and are not responses from real associations. No field findings are claimed here.
+The four handover scenarios were first built from five simulated survey profiles. A first survey round has since collected seven responses from members of four associations, and most of them describe handovers that left problems behind. Three associations have agreed in writing to support the project. The results and their limits are described in [Research and evidence](docs/research/README.md).
 
 ## Taking part
 
