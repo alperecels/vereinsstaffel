@@ -1,6 +1,6 @@
  # Planning
 
-This page lists the proposed work for the six months of development described in the [roadmap](roadmap.md). Most of it is future work that can only start after a funding decision and a decision on scope. The exception is VS-01. This research starts before the funding decision and continues into month 1 if it is not finished by then.
+This page lists the proposed work for the six months of development described in the [roadmap](roadmap.md). Most of it is future work that can only start after a funding decision and a decision on scope. The exception is VS-01, the first research round, which was finished before the funding decision. A second round in month 1 builds on it.
 
 VS identifiers are planning references, not GitHub issue numbers. When an issue is opened for an item, its link is added here. Nobody is assigned yet. The roles below are proposals, and no one's capacity has been agreed.
 
