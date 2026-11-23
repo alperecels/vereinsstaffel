@@ -18,7 +18,7 @@ How can someone check that the change is done? Describe what they should see.
 
 ## Dependencies
 
-List any related PRE or VS items, or write "none".
+List any related VS items, or write "none".
 
 ## Evidence
 
