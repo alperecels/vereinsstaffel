@@ -47,8 +47,8 @@ Asked whether a simple tool that records who is responsible, backups and recover
 
 Five people described what helped or got in the way. Paraphrased:
 
-- The domain and hosting had been registered with a former web administrator's private email address and phone number. After that person left, the recovery codes were out of reach and the provider asked for notarised documents.
-- Nobody knew how the cloud storage was organised or who had access. After the treasurer left, older budget and member lists were gone.
+- The domain and hosting had been registered with a former volunteer's personal contact details. After that person left, access could not be recovered without extra formal documents from the association.
+- Nobody knew how the cloud storage was organised or who had access. After an office holder left, older files could no longer be found.
 - The association tracked down former office holders and took over their passwords.
 - Volunteers helped.
 - The previous office holder did not want to carry on.
