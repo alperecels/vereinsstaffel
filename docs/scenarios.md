@@ -15,7 +15,7 @@ S1 to S4 each lead to one requirement, R1 to R4.
 | Expected result | The deputy finds the contact and the recovery route without seeing any credentials. A missing route is marked as incomplete. |
 | Failure condition | A missing route looks complete, or a password, recovery code or session link is shown. |
 | Requirement | R1: record the owner, deputy, recovery procedure and review date for each critical service. Recovery itself stays with the provider. |
-| Evidence status | Built from simulated profile 1. In the first survey round, 5 of 7 responses report an account that could not be reached for a while and 3 report out-of-date recovery details. One describes a domain registered to a former administrator's private email address. Not tested. |
+| Evidence status | Built from simulated profile 1. In the first survey round, 5 of 7 responses report an account that could not be reached for a while and 3 report out-of-date recovery details. One describes a domain registered with a former volunteer's personal contact details. Not tested. |
 
 ## S2: social media and donations
 
@@ -41,7 +41,7 @@ S1 to S4 each lead to one requirement, R1 to R4.
 | Expected result | The treasurer knows whom to ask and confirms receipt without uploading anything. |
 | Failure condition | The register accepts file contents or stores a private sharing link. |
 | Requirement | R3: record who looks after the archive, not the archive itself. Finding the right person is a different job from recovering lost files. |
-| Evidence status | Built from simulated profile 3. In the first survey round, 2 of 7 responses report a file that could not be found. One describes budget and member lists that were gone after the treasurer left. Not tested. |
+| Evidence status | Built from simulated profile 3. In the first survey round, 2 of 7 responses report a file that could not be found. One describes older files that could no longer be found after an office holder left. Not tested. |
 
 ## S4: a handover that already works
 
