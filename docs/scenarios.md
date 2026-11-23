@@ -1,6 +1,6 @@
 # Handover scenarios
 
-The four scenarios below describe how the proposed register should behave during a handover. Each one is built from one of five simulated survey profiles. None of them is a real case, and since there is no software yet, none of the tests has been run.
+The four scenarios below describe how the proposed register should behave during a handover. Each one was first built from one of five simulated survey profiles. The first survey round has since reported real problems that match S1 to S3; the details are in [Research and evidence](research/README.md). There is no software yet, so none of the tests has been run.
 
 S1 to S4 each lead to one requirement, R1 to R4.
 
@@ -15,7 +15,7 @@ S1 to S4 each lead to one requirement, R1 to R4.
 | Expected result | The deputy finds the contact and the recovery route without seeing any credentials. A missing route is marked as incomplete. |
 | Failure condition | A missing route looks complete, or a password, recovery code or session link is shown. |
 | Requirement | R1: record the owner, deputy, recovery procedure and review date for each critical service. Recovery itself stays with the provider. |
-| Evidence status | Simulated profile 1. Not tested. |
+| Evidence status | Built from simulated profile 1. In the first survey round, 5 of 7 responses report an account that could not be reached for a while and 3 report out-of-date recovery details. One describes a domain registered to a former administrator's private email address. Not tested. |
 
 ## S2: social media and donations
 
@@ -28,7 +28,7 @@ S1 to S4 each lead to one requirement, R1 to R4.
 | Expected result | Closing is refused while a mandatory step is open. Each confirmation is stored with a name and a date. |
 | Failure condition | The handover closes with an open step, or a confirmation is presented as proof of a change at the provider. |
 | Requirement | R2: the two steps are separate and both are mandatory. A confirmation records what someone reports. No payment or donor data is collected. |
-| Evidence status | Simulated profile 2. Not tested. |
+| Evidence status | Built from simulated profile 2. In the first survey round, 1 of 7 responses reports a former office holder who kept access and 2 report that nobody knew who managed an account. Not tested. |
 
 ## S3: shared archive
 
@@ -41,7 +41,7 @@ S1 to S4 each lead to one requirement, R1 to R4.
 | Expected result | The treasurer knows whom to ask and confirms receipt without uploading anything. |
 | Failure condition | The register accepts file contents or stores a private sharing link. |
 | Requirement | R3: record who looks after the archive, not the archive itself. Finding the right person is a different job from recovering lost files. |
-| Evidence status | Simulated profile 3. Not tested. |
+| Evidence status | Built from simulated profile 3. In the first survey round, 2 of 7 responses report a file that could not be found. One describes budget and member lists that were gone after the treasurer left. Not tested. |
 
 ## S4: a handover that already works
 
@@ -54,11 +54,11 @@ S1 to S4 each lead to one requirement, R1 to R4.
 | Expected result | If the guide is enough, that counts as a success without new software. |
 | Failure condition | Software is recommended anyway, or the example's 24-hour practice is treated as a rule for every association. |
 | Requirement | R4: test the existing method first and accept it when it works. |
-| Evidence status | Simulated profile 4. Not tested. This is the baseline for the comparison. |
+| Evidence status | Built from simulated profile 4. In the first survey round, 1 of 7 responses reports a handover without problems and 1 has written handover instructions. Nobody said their current method was enough. Not tested. This is the baseline for the comparison. |
 
 ## Profile 5
 
-Profile 5 is an association with no recent handover and little known about the next one. Nothing has gone wrong there, so it counts neither as a failure nor as a fifth scenario.
+Profile 5 is an association with no recent handover and little known about the next one. Nothing has gone wrong there, so it counts neither as a failure nor as a fifth scenario. In the first survey round, 1 of 7 responses reports no handover in the last 24 months.
 
 ## Export and import
 
