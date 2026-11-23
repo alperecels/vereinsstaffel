@@ -36,9 +36,9 @@ Each month builds on the one before. Development after month 1 starts only if th
 
 ### Month 1: research and baseline (VS-01, VS-02)
 
-Reconcile the six-question and nine-item questionnaires, collect real responses and compare them with handovers done using a written guide. Review the proposed scope and the threat model. Set up a fresh local installation and check that workspaces are kept apart, using fictional records only. The first research round, VS-01, was finished before the funding decision. Month 1 continues with a second round that counts each association once and compares the register with a written guide.
+The first research round, VS-01, was finished before the funding decision. Month 1 continues with a second round that counts each association once and records handovers done with a written guide, as the baseline for the comparison in month 3. Review the proposed scope and the threat model. Set up a fresh local installation and check that workspaces are kept apart, using fictional records only.
 
-Evidence at the end: the anonymous summary of responses (R02 in [Research and evidence](research/README.md)), the comparison with the written guide, and a recorded decision to go ahead, narrow the scope or stop.
+Evidence at the end: an anonymous summary of the second round in [Research and evidence](research/README.md), the written-guide baseline, and a recorded decision to go ahead, narrow the scope or stop.
 
 ### Month 2: service ownership (VS-03, VS-04)
 
