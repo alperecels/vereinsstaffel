@@ -1,4 +1,4 @@
-# Planning
+ # Planning
 
 This page lists the proposed work for the six months of development described in the [roadmap](roadmap.md). Most of it is future work that can only start after a funding decision and a decision on scope. The exception is VS-01. This research starts before the funding decision and continues into month 1 if it is not finished by then.
 
@@ -22,6 +22,8 @@ Each milestone ends with evidence a reviewer can check.
 ### VS-01: Compare real handovers with the checklist baseline
 
 Proposed role: research lead. Anonymise the evidence from real handovers and compare it with the written checklist. Depends on: nothing. It starts before the funding decision, in the milestone "Research and scope validation". Done when: a decision to go ahead, narrow the scope or stop is recorded together with the evidence behind it. GitHub issue: [#1](https://github.com/alperecels/vereinsstaffel/issues/1).
+
+Status: done on 23 November 2026. The survey summary is in [Research and evidence](research/README.md) and the decision is [DEC-08](decisions/README.md#dec-08-in-detail). The second round with a written guide is the next step.
 
 ### VS-02: Threat model, scope and foundation
 
