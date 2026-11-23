@@ -12,6 +12,11 @@ A technical specification shows a proposed design. It is not evidence of demand,
 | 1 October 2026 | The name VereinsStaffel was chosen and a short questionnaire was drafted. | The questionnaire has not been used with associations yet. |
 | 10 November 2026 | The technical specification (version 0.1) and a Turkish scenario report were used to write the first drafts of these pages. | The scenario report simulates responses. Receiving it does not mean that any fieldwork took place. |
 | 16 and 17 November 2026 | This repository was created and the documentation pages were added. | The repository holds documentation only. |
+| 6 October 2026 | Resonanz e.V. signed a statement of support. | The association is willing to give feedback and to test a later prototype. There is no financial or legal obligation. |
+| November 2026 | Ebru e.V. agreed to give a written statement of support. | Same scope as the other statements. |
+| 20 November 2026 | EinStein/Ribif e.V. signed a statement of support. | Same scope as the other statements. |
+| Not recorded | The first survey round collected seven responses from members of four associations. | This is the first field evidence. The form did not record which association each answer came from. |
+| 23 November 2026 | The survey results were summarised and the research page, the scenarios and the README were updated. | The simulated profiles stay in the repository but are no longer the only evidence. |
 
 ## Sources
 
@@ -22,6 +27,8 @@ A technical specification shows a proposed design. It is not evidence of demand,
 | SRC-03 | Notes on user research and on decisions | Method and outreach | Internal |
 | SRC-04 | Notes on prior art | Alternatives to compare | Internal |
 | SRC-05 | Survey report with method, profiles 1 to 5 and a comparison table | Questionnaire design and test data | Simulation only. Listed as R05 in [Research and evidence](research/README.md). |
+| SRC-06 | Export of the first survey round from the online form, with charts and free-text answers | Survey summary, R02 | Private. Raw answers are not published. |
+| SRC-07 | Statements of support from Ebru e.V., Resonanz e.V. and EinStein/Ribif e.V. | Support, R03 | Private. Only the association names are published. |
 
 In SRC-05, profile 4 is a counterexample: a handover that already works. Profile 5 separates uncertainty from an observed failure.
 
