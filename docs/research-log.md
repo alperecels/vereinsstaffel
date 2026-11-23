@@ -17,6 +17,7 @@ A technical specification shows a proposed design. It is not evidence of demand,
 | 20 November 2026 | A third association signed a statement of support. | Same scope as the other statements. |
 | Not recorded | The first survey round collected seven responses from members of four associations. | This is the first field evidence. The form did not record which association each answer came from. |
 | 23 November 2026 | The survey results were summarised and the research page, the scenarios and the README were updated. | The simulated profiles stay in the repository but are no longer the only evidence. |
+| 23 November 2026 | The repository was made public. Before that, the pages at commit 3f1a2bd were checked for working links, unsupported claims, consistency between pages, private data and licence status, and the repository was opened without signing in. | Checked by the founder. Still open: a private reporting channel for security and conduct, the licence decision and the open points in [Research and evidence](research/README.md). |
 
 ## Sources
 
