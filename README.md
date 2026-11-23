@@ -6,7 +6,7 @@ VereinsStaffel is a proposed self-hosted register for small volunteer-run associ
 
 ## Documentation
 
-- [Research and evidence](docs/research/README.md): what evidence exists, what is missing and how the first research round is planned
+- [Research and evidence](docs/research/README.md): what the first survey round found, what is still missing and how results are reported
 - [Handover scenarios](docs/scenarios.md): four fictional handovers and the requirements they lead to
 - [Roadmap](docs/roadmap.md): proposed scope and six months of development, with the evidence expected at the end of each month
 - [Planning](docs/planning.md): proposed work items VS-01 to VS-08 with their dependencies and acceptance evidence
@@ -19,7 +19,7 @@ VereinsStaffel is a proposed self-hosted register for small volunteer-run associ
 
 ## Who it is for
 
-Board members, volunteer coordinators and people who look after digital services in small registered associations (eingetragene Vereine). We intend to include migrant-led associations and organisations that work with migrants in the first research round. Taking part depends on experience with handovers, not on citizenship or assumed technical skill.
+Board members, volunteer coordinators and people who look after digital services in small registered associations (eingetragene Vereine). We intend to include migrant-led associations and organisations that work with migrants in the research. Taking part depends on experience with handovers, not on citizenship or assumed technical skill.
 
 ## How it would work
 
