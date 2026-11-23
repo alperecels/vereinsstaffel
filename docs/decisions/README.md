@@ -13,10 +13,21 @@ This page lists the decisions the project has made, the ones that are only propo
 | DEC-05 | Original documentation would be licensed under CC BY 4.0. | Proposed | Not recorded | [Licensing](../licensing.md) |
 | DEC-06 | The register is a single self-hosted workspace for one association. | Proposed | Not recorded | [Architecture](../architecture.md) |
 | DEC-07 | Development follows the six-month sequence in the roadmap. | Proposed | Not recorded | [Roadmap](../roadmap.md) |
+| DEC-08 | Continue the project after the first survey round, and compare the register with a written guide in the next round. | Accepted | 23 November 2026 | [DEC-08 in detail](#dec-08-in-detail) |
+
+## DEC-08 in detail
+
+Decided by the founder on 23 November 2026.
+
+The evidence is the first survey round: seven responses from members of four associations. Five responses report a handover with problems that are still open, and five report an account that could not be reached for a while. Four respondents would consider using a tool of this kind and three would want to see it first. Three associations have agreed in writing to support the project. The limits of this evidence are described in [Research and evidence](../research/README.md).
+
+The alternatives were to narrow the scope to email, domain and recovery details only, or to wait for more responses before deciding. Narrowing was not chosen because the problems reported also involve shared files and former office holders' access. Waiting was not chosen because the results already pass the planned threshold in most respects, and the remaining gaps can be closed in the next round.
+
+The next round asks for an association code so that each association is counted once, and runs the comparison with a written guide described in scenario S4. If the guide turns out to be enough, that result will be recorded as a new decision.
 
 ## Open questions
 
-- Do associations actually need help with handovers? See [Research and evidence](../research/README.md).
+- Do the problems from the first survey round hold up when more associations are asked and each is counted once? See [Research and evidence](../research/README.md).
 - Is software needed at all, or is a written guide enough?
 - Who has the time to run and maintain the project?
 
