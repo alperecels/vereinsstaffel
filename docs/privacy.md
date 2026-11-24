@@ -46,7 +46,7 @@ This page covers how the project handles data in this repository and in its rese
 
 - Contact details are kept separately from responses.
 - Access to raw responses is restricted.
-- Raw data has a set deletion date.
+- Raw data will get a fixed deletion date.
 
 The person responsible for data protection and the retention period have not been decided yet. See the open points in [Research and evidence](research/README.md).
 
