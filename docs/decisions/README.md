@@ -14,6 +14,7 @@ This page lists the decisions the project has made, the ones that are only propo
 | DEC-06 | The register is a single self-hosted workspace for one association. | Proposed | Not recorded | [Architecture](../architecture.md) |
 | DEC-07 | Development follows the six-month sequence in the roadmap. | Proposed | Not recorded | [Roadmap](../roadmap.md) |
 | DEC-08 | Continue the project after the first survey round, and compare the register with a written guide in the next round. | Accepted | 23 November 2026 | [DEC-08 in detail](#dec-08-in-detail) |
+| DEC-09 | Pages for associations and volunteers have a German section first and an English section after it. Technical pages stay in English. | Accepted | 24 November 2026 | [DEC-09 in detail](#dec-09-in-detail) |
 
 ## DEC-08 in detail
 
@@ -24,6 +25,16 @@ The evidence is the first survey round: seven responses from members of four ass
 The alternatives were to narrow the scope to email, domain and recovery details only, or to wait for more responses before deciding. Narrowing was not chosen because the problems reported also involve shared files and former office holders' access. Waiting was not chosen because the results already pass the planned threshold in most respects, and the remaining gaps can be closed in the next round.
 
 The next round asks for an association code so that each association is counted once, and runs the comparison with a written guide described in scenario S4. If the guide turns out to be enough, that result will be recorded as a new decision.
+
+## DEC-09 in detail
+
+Decided by the founder on 24 November 2026.
+
+The project is meant for volunteers in associations in Germany, and not all of them read English. Until now every page was in English only.
+
+The pages with a German section are the README, the privacy page, the handover scenarios, the research summary and the code of conduct. The other pages stay in English. Commit messages stay in English. The rule for contributors is in [Contributing](../../CONTRIBUTING.md).
+
+The alternatives were to keep English only, to translate every page, or to keep German in separate files. English only was not chosen because the pages that volunteers read would stay hard to follow for some of them. Translating every page was not chosen because a single maintainer would have to keep two versions of the technical pages up to date. Separate files were not chosen because they are easier to miss and can drift apart from the English version.
 
 ## Open questions
 
