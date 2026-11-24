@@ -10,14 +10,14 @@ VereinsStaffel ist ein vorgeschlagenes, selbst gehostetes Register für kleine, 
 
 ### Dokumentation
 
-Die ausführliche Dokumentation ist derzeit auf Englisch:
+Seiten mit dem Zusatz (auch auf Deutsch) haben einen deutschen Abschnitt. Die übrigen Seiten sind derzeit nur auf Englisch.
 
-- [Forschung und Belege](docs/research/README.md): was die erste Befragungsrunde ergeben hat, was noch fehlt und wie Ergebnisse berichtet werden
-- [Übergabeszenarien](docs/scenarios.md): vier erfundene Übergaben und die Anforderungen, die sich daraus ergeben
+- [Forschung und Belege](docs/research/README.md) (auch auf Deutsch): was die erste Befragungsrunde ergeben hat, was noch fehlt und wie Ergebnisse berichtet werden
+- [Übergabeszenarien](docs/scenarios.md) (auch auf Deutsch): vier erfundene Übergaben und die Anforderungen, die sich daraus ergeben
 - [Roadmap](docs/roadmap.md): vorgeschlagener Umfang und sechs Monate Entwicklung, mit den Nachweisen am Ende jedes Monats
 - [Planung](docs/planning.md): vorgeschlagene Arbeitspakete VS-01 bis VS-08 mit ihren Abhängigkeiten und Abnahmenachweisen
 - [Architektur](docs/architecture.md): vorgeschlagener Aufbau, welche Daten das Register enthalten darf und was es nie speichern darf
-- [Datenschutz](docs/privacy.md): wie Daten in diesem Repository und in der Forschung behandelt werden und was ein Verein entscheiden müsste
+- [Datenschutz](docs/privacy.md) (auch auf Deutsch): wie Daten in diesem Repository und in der Forschung behandelt werden und was ein Verein entscheiden müsste
 - [Bestehende Lösungen und Alternativen](docs/prior-art.md): vorhandene Werkzeuge und eine schriftliche Anleitung, und wie sie an derselben Übergabeaufgabe verglichen werden
 - [Lizenzen](docs/licensing.md): vorgeschlagene Lizenzen und offene Entscheidungen
 - [Forschungsprotokoll](docs/research-log.md): datierte Einträge dazu, was passiert ist, was es bedeutet und welche Quellen genutzt wurden
@@ -57,12 +57,14 @@ VereinsStaffel is a proposed self-hosted register for small volunteer-run associ
 
 ### Documentation
 
-- [Research and evidence](docs/research/README.md): what the first survey round found, what is still missing and how results are reported
-- [Handover scenarios](docs/scenarios.md): four fictional handovers and the requirements they lead to
+Pages marked (also in German) have a German section. The other pages are in English only for now.
+
+- [Research and evidence](docs/research/README.md) (also in German): what the first survey round found, what is still missing and how results are reported
+- [Handover scenarios](docs/scenarios.md) (also in German): four fictional handovers and the requirements they lead to
 - [Roadmap](docs/roadmap.md): proposed scope and six months of development, with the evidence expected at the end of each month
 - [Planning](docs/planning.md): proposed work items VS-01 to VS-08 with their dependencies and acceptance evidence
 - [Architecture](docs/architecture.md): proposed design, what data the register may hold and what it must never store
-- [Privacy and data protection](docs/privacy.md): how data is handled in this repository and in the research, and what an association would have to decide
+- [Privacy and data protection](docs/privacy.md) (also in German): how data is handled in this repository and in the research, and what an association would have to decide
 - [Prior art and alternatives](docs/prior-art.md): existing tools and a written guide, and how they will be compared on the same handover task
 - [Licensing](docs/licensing.md): proposed licences and the decisions still open
 - [Research log](docs/research-log.md): dated record of what happened, what it means and which sources were used
